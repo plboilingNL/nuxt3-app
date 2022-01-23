@@ -61,6 +61,7 @@
         <div class="max-w-lg mx-auto lg:max-w-none">
           <form
             netlify
+            action=""
             netlify-honeypot="bot-field"
             name="contact"
             method="POST"
