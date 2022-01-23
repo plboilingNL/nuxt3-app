@@ -64,7 +64,6 @@
             netlify-honeypot="bot-field"
             name="contact"
             method="POST"
-            data-netlify="true"
             class="grid grid-cols-1 gap-y-6"
           >
             <input type="hidden" name="form-name" value="contact" />
