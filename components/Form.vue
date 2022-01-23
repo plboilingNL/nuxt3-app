@@ -61,7 +61,7 @@
         <div class="max-w-lg mx-auto lg:max-w-none">
           <form
             netlify
-            action=""
+            action="https://formspree.io/f/xrgjejpe"
             netlify-honeypot="bot-field"
             name="contact"
             method="POST"
