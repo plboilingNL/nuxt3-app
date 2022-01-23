@@ -60,11 +60,14 @@
       >
         <div class="max-w-lg mx-auto lg:max-w-none">
           <form
+            netlify
+            netlify-honeypot="bot-field"
             name="contact"
             method="POST"
             data-netlify="true"
             class="grid grid-cols-1 gap-y-6"
           >
+            <input type="hidden" name="form-name" value="contact" />
             <div>
               <label for="full-name" class="sr-only">Full name</label>
               <input
