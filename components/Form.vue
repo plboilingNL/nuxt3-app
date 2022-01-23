@@ -68,6 +68,7 @@
             class="grid grid-cols-1 gap-y-6"
           >
             <input type="hidden" name="form-name" value="contact" />
+            <input type="hidden" name="_language" value="pl" />
             <div>
               <label for="full-name" class="sr-only">Full name</label>
               <input
